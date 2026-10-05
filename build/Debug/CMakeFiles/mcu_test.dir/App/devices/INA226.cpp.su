@@ -1,0 +1,31 @@
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:44:6:bool INA226::begin(I2C_HandleTypeDef*, uint8_t, uint8_t*, uint8_t*)	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:61:6:bool INA226::isConnected()	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:68:9:uint8_t INA226::getAddress()	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:78:7:float INA226::getBusVoltage()	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:85:7:float INA226::getShuntVoltage()	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:92:7:float INA226::getCurrent()	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:99:7:float INA226::getPower()	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:106:6:bool INA226::isConversionReady()	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:113:6:bool INA226::waitConversionReady(uint32_t)	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:128:6:bool INA226::reset()	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:143:6:bool INA226::setAverage(uint8_t)	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:154:9:uint8_t INA226::getAverage()	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:163:6:bool INA226::setBusVoltageConversionTime(uint8_t)	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:174:9:uint8_t INA226::getBusVoltageConversionTime()	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:183:6:bool INA226::setShuntVoltageConversionTime(uint8_t)	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:194:9:uint8_t INA226::getShuntVoltageConversionTime()	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:207:5:int INA226::setMaxCurrentShunt(float, float, bool)	40	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:296:5:int INA226::setCalShunt(uint16_t, float)	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:304:6:void INA226::linearCalibrate(float, float)	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:315:6:bool INA226::setMode(uint8_t)	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:326:9:uint8_t INA226::getMode()	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:338:6:bool INA226::setAlertRegister(uint16_t)	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:347:10:uint16_t INA226::getAlertFlag()	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:353:6:bool INA226::setAlertLimit(uint16_t)	24	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:362:10:uint16_t INA226::getAlertLimit()	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:372:10:uint16_t INA226::getManufacturerID()	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:378:10:uint16_t INA226::getDieID()	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:388:9:uint8_t INA226::_readRegisterDMA(uint8_t)	32	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:394:9:uint8_t INA226::_writeRegisterDMA(uint8_t, uint16_t)	32	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:401:10:uint16_t INA226::_readRegister(uint8_t)	40	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.cpp:411:10:uint16_t INA226::_writeRegister(uint8_t, uint16_t)	40	static

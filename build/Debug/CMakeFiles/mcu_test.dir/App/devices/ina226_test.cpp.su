@@ -1,0 +1,23 @@
+/home/uav/box_hardware/mcu_test/App/devices/INA226.h:106:12:float INA226::getCurrentLSB_mA()	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.h:108:12:float INA226::getShunt()	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.h:109:12:float INA226::getMaxCurrent()	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.h:142:12:uint16_t INA226::getRegister(uint8_t)	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.h:144:12:bool INA226::lastOk() const	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.h:145:21:HAL_StatusTypeDef INA226::lastStatus() const	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.h:146:12:uint16_t INA226::getCalibration() const	16	static
+/home/uav/box_hardware/mcu_test/App/devices/INA226.h:62:7:constexpr INA226::INA226()	16	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:30:6:bool {anonymous}::parse_float(const char*, float*)	24	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:39:6:bool {anonymous}::parse_addr(const char*, uint8_t*)	24	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:49:6:bool {anonymous}::setup_device()	72	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:89:6:void {anonymous}::print_reading()	48	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:114:6:void {anonymous}::scan_bus()	16	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:133:6:void {anonymous}::print_info()	72	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:152:6:void {anonymous}::reinit_bus()	8	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:167:6:void {anonymous}::ina_init()	8	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:172:6:void {anonymous}::ina_safe()	4	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:177:6:void {anonymous}::ina_poll(uint32_t)	16	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:185:6:void {anonymous}::ina_help()	8	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:199:6:void {anonymous}::ina_cmd(int, char**)	48	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:283:16:int Ina226_Read(float*, float*, float*)	40	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:305:2:void __static_initialization_and_destruction_0()	8	static
+/home/uav/box_hardware/mcu_test/App/devices/ina226_test.cpp:305:2:cpp)	8	static

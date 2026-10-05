@@ -1,0 +1,6 @@
+/home/uav/box_hardware/mcu_test/Core/Src/stm32h7xx_hal_msp.c:64:6:HAL_MspInit	16	static
+/home/uav/box_hardware/mcu_test/Core/Src/stm32h7xx_hal_msp.c:86:6:HAL_I2C_MspInit	240	static
+/home/uav/box_hardware/mcu_test/Core/Src/stm32h7xx_hal_msp.c:133:6:HAL_I2C_MspDeInit	16	static
+/home/uav/box_hardware/mcu_test/Core/Src/stm32h7xx_hal_msp.c:164:6:HAL_TIM_Base_MspInit	32	static
+/home/uav/box_hardware/mcu_test/Core/Src/stm32h7xx_hal_msp.c:205:6:HAL_TIM_MspPostInit	48	static
+/home/uav/box_hardware/mcu_test/Core/Src/stm32h7xx_hal_msp.c:281:6:HAL_TIM_Base_MspDeInit	16	static

@@ -1,0 +1,8 @@
+/home/uav/box_hardware/mcu_test/App/console.c:22:6:Console_Init	16	static
+/home/uav/box_hardware/mcu_test/App/console.c:36:6:USART3_IRQHandler	16	static
+/home/uav/box_hardware/mcu_test/App/console.c:57:5:__io_putchar	16	static
+/home/uav/box_hardware/mcu_test/App/console.c:69:12:rx_get	16	static
+/home/uav/box_hardware/mcu_test/App/console.c:77:12:tokenize	24	static
+/home/uav/box_hardware/mcu_test/App/console.c:90:5:Console_ReadLine	24	static
+/home/uav/box_hardware/mcu_test/App/console.c:152:6:Console_Prompt	8	static
+/home/uav/box_hardware/mcu_test/App/console.c:157:5:Console_ParseInt	24	static

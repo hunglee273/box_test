@@ -1,0 +1,6 @@
+/home/uav/box_hardware/mcu_test/build/Debug/CMakeFiles/mcu_test.dir
+/home/uav/box_hardware/mcu_test/build/Debug/CMakeFiles/edit_cache.dir
+/home/uav/box_hardware/mcu_test/build/Debug/CMakeFiles/rebuild_cache.dir
+/home/uav/box_hardware/mcu_test/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/home/uav/box_hardware/mcu_test/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/uav/box_hardware/mcu_test/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

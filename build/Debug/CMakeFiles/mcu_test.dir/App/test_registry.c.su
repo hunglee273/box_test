@@ -1,0 +1,7 @@
+/home/uav/box_hardware/mcu_test/App/test_registry.c:50:29:find_module	24	static
+/home/uav/box_hardware/mcu_test/App/test_registry.c:60:13:print_list	16	static
+/home/uav/box_hardware/mcu_test/App/test_registry.c:70:13:print_help	8	static
+/home/uav/box_hardware/mcu_test/App/test_registry.c:80:6:Tests_InitAll	16	static
+/home/uav/box_hardware/mcu_test/App/test_registry.c:89:6:Tests_PollAll	24	static
+/home/uav/box_hardware/mcu_test/App/test_registry.c:99:6:Tests_SafeAll	16	static
+/home/uav/box_hardware/mcu_test/App/test_registry.c:108:6:Tests_Exec	24	static
